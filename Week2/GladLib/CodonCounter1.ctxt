@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CodonCounter1
+comment1.params=
+comment1.target=CodonCounter1()
+comment2.params=start\ dna
+comment2.target=void\ buildCodonMap(int,\ java.lang.String)
+comment2.text=\n\ This\ method\ will\ add\ codons\ to\ map\ of\ codons\ mapped\ to\ their\ counts\ \n\ from\ the\ string\ dna\ with\ the\ reading\ frame\ with\ the\ position\ \n\ start\ (a\ value\ of\ 0,\ 1,\ or\ 2).\n\ @param\ start\tstart\ index\ to\ count\ codons\ (a\ value\ of\ 0,\ 1,\ or\ 2)\n\ @param\ dna\tdna\ to\ be\ processed\n
+comment3.params=
+comment3.target=java.lang.String\ getMostCommonCodon()
+comment3.text=\n\ This\ method\ returns\ most\ common\ codon\ actually\ stored.\n\ @return\tmost\ common\ codon\n
+comment4.params=start\ end
+comment4.target=void\ printCodonCounts(int,\ int)
+comment5.params=
+comment5.target=int\ getCodonCount()
+comment6.params=
+comment6.target=void\ tester()
+numComments=7
